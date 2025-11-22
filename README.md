@@ -1,16 +1,27 @@
 # spacez_assignment
 
-A new Flutter project.
+This is the implementation of Spacez Coupon Page
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone The Repo:
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone https://github.com/Wannabe-King/SpaceZ_Assignment
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Get all the dependencies:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter pub get
+```
+
+Run the project
+
+```
+flutter run
+```
+
+## Screenshot
+
+<img width="1080" height="2400" alt="Screenshot_1763835191" src="https://github.com/user-attachments/assets/b95114e6-f6ba-4e3c-8e13-1fcb9d97b11d" />
